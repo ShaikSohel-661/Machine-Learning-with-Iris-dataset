@@ -1,5 +1,5 @@
 # Machine-Learning-with-Iris-dataset
-In this Iris machine learning project I have done classification task involving the Iris flower dataset. The Iris dataset is a popular and widely used dataset in the field of machine learning and pattern recognition. It consists of measurements of four attributes of different iris flowers: sepal length, sepal width, petal length, and petal width.
+In this machine learning project I have done classification task involving the Iris flower dataset. The Iris dataset is a popular and widely used dataset in the field of machine learning and pattern recognition. It consists of measurements of four attributes of different iris flowers: sepal length, sepal width, petal length, and petal width.
 
 The goal of the project is to develop a machine learning model that can accurately classify the iris flowers into their respective species based on these attribute measurements. The dataset contains three classes: setosa, versicolor, and virginica, representing three different species of iris flowers.
 
